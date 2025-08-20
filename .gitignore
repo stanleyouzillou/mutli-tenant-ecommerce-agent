@@ -1,0 +1,10 @@
+# Node / Next / tooling
+node_modules
+.next
+out
+coverage
+dist
+.env*
+.DS_Store
+playwright-report
+test-results
